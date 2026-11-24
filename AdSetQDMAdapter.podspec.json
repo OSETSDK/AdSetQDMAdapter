@@ -1,6 +1,6 @@
 {
   "name": "AdSetQDMAdapter",
-  "version": "2.0.0.0",
+  "version": "2.0.1.0",
   "summary": "佳投渠道适配器",
   "description": "对接 AdSetQDMAdSDK 1.4.16；自渲染交互复用待厂商解绑接口确认。",
   "homepage": "https://github.com/OSETSDK/AdSetQDMAdapter",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/OSETSDK/AdSetQDMAdapter.git",
-    "tag": "2.0.0.0"
+    "tag": "2.0.1.0"
   },
   "platforms": {
     "ios": "12.0"
@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "OSETCoreAd": [
-      ">= 7.0.4.0"
+      ">= 7.0.4.1"
     ],
     "AdSetQDMAdSDK": [
       "= 1.4.16"
